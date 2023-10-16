@@ -1,6 +1,6 @@
 // OpenWeather api 
 const apiKey  = "048a0fb05536704c302f68dfbc33c3c0" // add your api key
-const apiUrl = "http://api.weatherapi.com/v1/forecast.json?key=5b833c1caa8648aa89e130201232509&q="
+const apiUrl = "https://api.weatherapi.com/v1/forecast.json?key=5b833c1caa8648aa89e130201232509&q="
 //http://api.weatherapi.com/v1/forecast.json?key=5b833c1caa8648aa89e130201232509&q=mumbai&days=2&aqi=no&alerts=no
 const searchBox = document.querySelector('.search input');
 const searchBtn = document.querySelector('.search button');
